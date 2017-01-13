@@ -1,0 +1,21 @@
+{
+  "name": "whoislookup",
+  "version": "1.0.0",
+  "description": "A simple application that returns ip, language and the software used by the visitor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/SarthakAdhikari/whoislookup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+   
+    n
+  }
+}
